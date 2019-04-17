@@ -1,0 +1,1 @@
+WeatherPy analyzes weather from 500 randomly selected cities around the world, looking specifically at temperature, humidity, cloudiness, and wind speed across latitudes.
