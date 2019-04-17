@@ -1,0 +1,680 @@
+1,3833859,barrow,us
+2,3428576,san pedro,bz
+3,262462,saint george,bm
+4,3374210,sao filipe,cv
+5,4224413,statesboro,us
+6,2618795,klaksvik,fo
+7,3576994,cockburn town,bs
+8,5848280,kapaa,us
+9,5339840,costa mesa,us
+10,3372472,vila franca do campo,pt
+11,5880568,bethel,us
+12,5859699,college,us
+13,2508813,adrar,dz
+14,1260086,patna,gb
+15,5882953,aklavik,ca
+16,6167817,torbay,ca
+17,3402648,carutapera,br
+18,3450083,santa maria,cv
+19,6185377,yellowknife,ca
+20,6170031,tuktoyaktuk,ca
+21,2511174,santa cruz de tenerife,es
+22,1692193,san bartolome,es
+23,3424607,tasiilaq,gl
+24,4146901,bayonet point,us
+25,2517679,fortuna,us
+26,6149996,smithers,ca
+27,6165406,thompson,ca
+28,2288105,grand-lahou,ci
+29,3985710,cabo san lucas,mx
+30,3386177,trairi,br
+31,3578278,vieux-habitants,gp
+32,3382160,cayenne,gf
+33,6111862,port hardy,ca
+34,4676740,brownsville,us
+35,5855927,hilo,us
+36,6096551,pangnirtung,ca
+37,1784874,houma,us
+38,3831208,qaanaaq,gl
+39,2067070,palmer,us
+40,5919850,chapais,ca
+41,5816605,yakima,us
+42,5554428,ketchikan,us
+43,3412093,vestmannaeyjar,is
+44,3421765,nanortalik,gl
+45,2267254,lagoa,pt
+46,4407665,kodiak,us
+47,5119251,greece,us
+48,3418910,upernavik,gl
+49,2516507,huescar,es
+50,2270385,camacha,pt
+51,2331140,labe,gn
+52,3372707,ribeira grande,pt
+53,4031637,lavrentiya,ru
+54,3416888,grindavik,is
+55,3421719,narsaq,gl
+56,5067646,elwood,us
+57,3684276,el doncello,co
+58,2247684,ndioum,sn
+59,2610343,vestmanna,fo
+60,4020109,atuona,pf
+61,2642214,morecambe,gb
+62,5983720,iqaluit,ca
+63,3374166,tarrafal,cv
+64,5969785,hamilton,bm
+65,3423146,ilulissat,gl
+66,3996234,lazaro cardenas,mx
+67,3652764,puerto ayora,ec
+68,3413604,selfoss,is
+69,4128894,rogers,us
+70,2638419,scarborough,tt
+71,4984075,alpena,us
+72,3453439,ponta do sol,cv
+73,2377457,nouadhibou,mr
+74,6100069,peace river,ca
+75,3491570,anchovy,jm
+76,6113828,provost,ca
+77,4021858,guerrero negro,mx
+78,3530839,china,mx
+79,5367788,lompoc,us
+80,5592562,emmett,us
+81,1855612,nara,ml
+82,6160603,swift current,ca
+83,2630299,hofn,is
+84,5847411,kahului,us
+85,3115824,muros,es
+86,3645532,ciudad bolivar,ve
+87,4459343,carrboro,us
+88,2656946,ashington,gb
+89,4267710,sitka,us
+90,5861897,fairbanks,us
+91,6089245,norman wells,ca
+92,3570392,le vauclin,mq
+93,5946768,edmonton,ca
+94,3625710,upata,ve
+95,5742974,north bend,us
+96,4011743,constitucion,mx
+97,3437029,san patricio,mx
+98,2542997,marrakesh,ma
+99,4031574,provideniya,ru
+100,5711847,astoria,us
+101,3421193,paamiut,gl
+102,4167538,palm coast,us
+103,3527413,graciano sanchez,mx
+104,2450173,taoudenni,ml
+105,2381334,atar,mr
+106,3572189,freetown,ag
+107,2335713,matagami,ca
+108,5347335,fairfield,us
+109,5962442,goderich,sl
+110,4602982,ardmore,us
+111,6144312,sept-iles,ca
+112,5088597,lebanon,us
+113,2303236,begoro,gh
+114,2645525,kincardine,ca
+115,3854604,alamos,mx
+116,2633274,akureyri,is
+117,5836068,rawlins,us
+118,2419992,kankan,gn
+119,4333811,morgan city,us
+120,3526923,huichapan,mx
+121,2294915,takoradi,gh
+122,6176823,waterloo,sl
+123,1714733,dingle,ie
+124,3572906,andros town,bs
+125,4981710,van buren,us
+126,2374583,bubaque,gw
+127,2246901,oussouye,sn
+128,3652758,puerto baquerizo moreno,ec
+129,3981460,coahuayana,mx
+130,4149959,cape canaveral,us
+131,3374083,bathsheba,bb
+132,3174050,mantua,cu
+133,5393052,santa cruz,cr
+134,5380420,pacifica,us
+135,5688789,dickinson,us
+136,5380437,pacific grove,us
+137,2069194,jamestown,us
+138,3491161,bull savanna,jm
+139,3421982,maniitsoq,gl
+140,5554072,juneau,us
+141,5383559,placerville,us
+142,3571913,marsh harbour,bs
+143,4002745,pueblo nuevo,mx
+144,5954718,flin flon,ca
+145,3422683,kangaatsiaq,gl
+146,6322184,porto novo,cv
+147,2510542,telde,es
+148,2640967,omagh,gb
+149,5972762,hay river,ca
+150,3379316,lethem,gy
+151,5949493,espanola,us
+152,5710360,winnemucca,us
+153,5768233,rapid city,us
+154,3515369,tlatenchi,mx
+155,4732862,nome,us
+156,3582228,dangriga,bz
+157,4031742,egvekinot,ru
+158,3594143,la reforma,mx
+159,4468525,graham,us
+160,3572375,freeport,us
+161,5354943,half moon bay,us
+162,3393692,itarema,br
+163,2160063,codrington,ag
+164,2460954,araouane,ml
+165,2553604,casablanca,ma
+166,3517970,pochutla,mx
+167,4391812,independence,us
+168,6171633,ucluelet,ca
+169,5924351,clyde river,ca
+170,4173838,spring hill,us
+171,5935804,dawson creek,ca
+172,3603157,puerto lempira,hn
+173,3947322,la libertad,sv
+174,3515195,totolapan,mx
+175,4755280,danville,us
+176,2648341,golspie,gb
+177,5606187,saint anthony,ca
+178,3372760,praia da vitoria,pt
+179,6164499,the pas,ca
+180,2252606,bakel,sn
+181,3377301,mabaruma,gy
+182,6065867,marathon,ca
+183,2964405,ennis,us
+184,3608828,iralaya,hn
+185,5525577,lubbock,us
+186,2960970,westport,ie
+187,4939004,harwich,us
+188,6050066,la ronge,ca
+189,5969025,haines junction,ca
+190,2980080,saint-francois,gp
+191,6148373,sioux lookout,ca
+192,4986020,big rapids,us
+193,3420768,qasigiannguit,gl
+194,6086871,nelson,gb
+195,2122090,pevek,ru
+196,2128975,nemuro,jp
+197,1170425,daud khel,pk
+198,1685422,sulangan,ph
+199,1794209,simao,cn
+200,1797551,qinzhou,cn
+201,2729907,longyearbyen,sj
+202,1174451,keti bandar,pk
+203,228418,nakasongola,ug
+204,1784055,zhuanghe,cn
+205,2122293,ozernovskiy,ru
+206,1278297,ashoknagar,in
+207,290030,doha,kw
+208,2347266,shar,kz
+209,712587,novikovo,ru
+210,143073,ardakan,ir
+211,2015306,tiksi,ru
+212,2094342,kavieng,pg
+213,1260880,pahalgam,in
+214,1847947,shingu,jp
+215,1865309,katsuura,jp
+216,362973,abnub,eg
+217,5140405,syracuse,it
+218,2110227,butaritari,ki
+219,2033196,zhangjiakou,cn
+220,1503153,klyuchi,ru
+221,780687,berlevag,no
+222,748870,cubuk,tr
+223,1486910,komsomolskiy,ru
+224,3033123,besancon,fr
+225,2126710,beringovskiy,ru
+226,1486321,yar-sale,ru
+227,2014624,udachnyy,ru
+228,2092164,lorengau,pg
+229,110690,faya,td
+230,1814093,dali,cn
+231,1495256,pervomayskoye,ru
+232,286621,salalah,om
+233,2126123,chokurdakh,ru
+234,86049,jalu,ly
+235,1511846,oktyabrskoye,ru
+236,2661001,domat,ch
+237,2022572,khatanga,ru
+238,615460,pitsunda,ge
+239,2032614,baruun-urt,mn
+240,146639,lasa,cn
+241,2017155,saskylakh,ru
+242,1842966,kijang,id
+243,230617,kotido,ug
+244,1849876,tateyama,jp
+245,3220813,wanning,cn
+246,1494309,potanino,ru
+247,2662689,visby,se
+248,2017215,sangar,ru
+249,3194510,nevesinje,ba
+250,698346,orzhytsya,ua
+251,1852357,shimoda,jp
+252,2122104,petropavlovsk-kamchatskiy,ru
+253,57000,hobyo,so
+254,1793036,tengzhou,cn
+255,2214827,mizdah,ly
+256,2121025,srednekolymsk,ru
+257,608872,makat,kz
+258,7626384,hovd,mn
+259,2525772,acri,it
+260,1651810,airai,pw
+261,1813812,danshui,cn
+262,1163054,turbat,pk
+263,1120985,zaranj,af
+264,1490256,talnakh,ru
+265,1637001,biak,id
+266,2347470,bauchi,ng
+267,320557,bozuyuk,tr
+268,1733782,victoria,sc
+269,1252783,yarada,in
+270,3021605,denain,fr
+271,1697799,nenita,ph
+272,2027786,amga,ru
+273,2992292,montlucon,fr
+274,245338,am timan,td
+275,531426,malaya purga,ru
+276,1242110,kalmunai,lk
+277,759852,ryki,pl
+278,692944,stanislav,ua
+279,2123814,leningradskiy,ru
+280,756867,tomaszow mazowiecki,pl
+281,3141332,roros,no
+282,590447,karla,ee
+283,1528998,yumen,cn
+284,2126682,bilibino,ru
+285,2032201,bulgan,mn
+286,1265660,kumhari,in
+287,1259395,porbandar,in
+288,1516438,zyryanovsk,kz
+289,607610,zhanaozen,kz
+290,2121909,poronaysk,ru
+291,2347470,miri,my
+292,2017851,pogranichnyy,ru
+293,546105,nikolskoye,ru
+294,133595,gerash,ir
+295,572559,borinskoye,ru
+296,1735799,sri aman,my
+297,1485724,talaya,ru
+298,1253863,umaria,in
+299,1788534,xinyang,cn
+300,1337606,eydhafushi,mv
+301,1519422,semey,kz
+302,1259385,port blair,in
+303,162158,baherden,tm
+304,2790471,hun,ly
+305,525426,sobolevo,ru
+306,774208,ciechanow,pl
+307,2447513,arlit,ne
+308,553725,kamenka,ru
+309,371745,kutum,sd
+310,2125693,evensk,ru
+311,1264037,malpe,in
+312,2039557,khasan,ru
+313,2112802,hasaki,jp
+314,2121385,severo-kurilsk,ru
+315,779554,honningsvag,no
+316,630752,ylojarvi,fi
+317,2126785,belaya gora,ru
+318,1161724,chabahar,ir
+319,90150,tikrit,iq
+320,2347468,yuli,tw
+321,2437798,zinder,ne
+322,1803560,lingao,cn
+323,866062,iskateley,ru
+324,1488048,ulagan,ru
+325,2016701,shimanovsk,ru
+326,480884,bolshoye nagatkino,ru
+327,594064,svencionys,lt
+328,3139597,sistranda,no
+329,1797543,tianpeng,cn
+330,1256929,muli,mv
+331,2249901,gat,ly
+332,376332,doka,sd
+333,2013952,ust-ilimsk,ru
+334,1488903,turukhansk,ru
+335,2525352,cariati,it
+336,1167528,quetta,pk
+337,1691355,sabang,id
+338,1788268,dongsheng,cn
+339,1215350,bireun,id
+340,1705460,luba,gq
+341,2326168,ilesha,ng
+342,779622,havoysund,no
+343,2031964,darhan,mn
+344,1244926,hambantota,lk
+345,2126199,cherskiy,ru
+346,1167821,pishin,pk
+347,1861280,itoman,jp
+348,1737486,bintulu,my
+349,1803936,wuwei,cn
+350,1507390,dikson,ru
+351,2120612,tigil,ru
+352,287832,ibra,om
+353,2121373,seymchan,ru
+354,2965139,mahon,es
+355,107304,buraydah,sa
+356,4372777,vardo,no
+357,1256025,sirur,in
+358,775758,zatoka,ua
+359,6356195,el prat de llobregat,es
+360,2027296,aykhal,ru
+361,601551,akdepe,tm
+362,1214488,meulaboh,id
+363,1516589,zhezkazgan,kz
+364,2562280,xaghra,mt
+365,727030,milkovo,ru
+366,1487332,verkhnyaya inta,ru
+367,2013727,vanavara,ru
+368,2487130,sidi ali,dz
+369,471160,voznesenye,ru
+370,1513990,gazli,uz
+371,700796,tsybuliv,ua
+372,2019323,nerchinskiy zavod,ru
+373,2383119,sibut,cf
+374,1792592,tongren,cn
+375,297789,yalvac,tr
+376,2013258,vrangel,ru
+377,2052479,zhuhai,cn
+378,286245,sur,om
+379,2012530,zhigansk,ru
+380,1271215,gidam,in
+381,2090021,namatanai,pg
+382,338998,dilla,et
+383,1257771,saiha,in
+384,1349090,harindanga,in
+385,616117,vahan,am
+386,98182,baghdad,iq
+387,1280957,jiuquan,cn
+388,762021,plonsk,pl
+389,1850144,nishihara,jp
+390,1500399,lokosovo,ru
+391,330534,mizan teferi,et
+392,1804646,huangchuan,cn
+393,778707,mehamn,no
+394,526749,mikhaylovskoye,ru
+395,477940,ust-tsilma,ru
+396,556268,ostrovnoy,ru
+397,3146487,raudeberg,no
+398,2036069,linjiang,cn
+399,1501429,kuminskiy,ru
+400,49747,xuddur,so
+401,64013,bosaso,so
+402,415189,aden,ye
+403,509401,pirogovo,ru
+404,2127202,anadyr,ru
+405,1260543,pandhurna,in
+406,2330100,bako,et
+407,220448,aketi,cd
+408,1795424,huilong,cn
+409,525262,morki,ru
+410,3137469,sorland,no
+411,2335614,kagoro,ng
+412,2013279,vostok,ru
+413,583472,alakurtti,ru
+414,1802068,lujiang,cn
+415,1682474,ternate,id
+416,6685842,yangshe,cn
+417,584051,svetlogorsk,ru
+418,1688696,san policarpo,ph
+419,710342,chutove,ua
+420,1493162,salym,ru
+421,1798760,pingliang,cn
+422,2019935,mnogovershinnyy,ru
+423,2647984,great yarmouth,gb
+424,1794903,shiyan,cn
+425,640276,raahe,fi
+426,1337607,kudahuvadhoo,mv
+427,543508,kovdor,ru
+428,491019,sol-iletsk,ru
+429,2012938,yerofey pavlovich,ru
+430,172515,abu samrah,qa
+431,364933,umm kaddadah,sd
+432,1653316,savannakhet,la
+433,1540711,muravlenko,ru
+434,263166,deskati,gr
+435,5368361,olga,ru
+436,257122,methoni,gr
+437,1263776,mangan,in
+438,1267517,katghora,in
+439,1786640,yingcheng,cn
+440,2025256,chumikan,ru
+441,518346,novopetrovskoye,ru
+442,1835848,seoul,kr
+443,1508285,chemal,ru
+444,3176923,fiumicino,it
+445,1797264,quzhou,cn
+446,3146125,ler,sd
+447,2014927,tulun,ru
+448,1267390,kavaratti,in
+449,1485997,yeniseysk,ru
+450,2120591,tilichiki,ru
+451,3141667,roald,no
+452,1862555,hirado,jp
+453,2322794,suleja,ng
+454,2973385,tarbes,fr
+455,360923,port said,eg
+456,2122389,ossora,ru
+457,1489661,tevriz,ru
+458,1498283,mugur-aksy,ru
+459,1696780,padada,ph
+460,1633034,palu,id
+461,2022317,dormidontovka,ru
+462,337010,gelemso,et
+463,64814,bandarbeyla,so
+464,1254709,tezu,in
+465,653253,kempele,fi
+466,625721,lyuban,by
+467,1507116,dudinka,ru
+468,2022143,khuzhir,ru
+469,337405,gambela,et
+470,1172663,kunjah,pk
+471,1715430,sapa,ph
+472,2680662,sala,se
+473,2212775,sabha,ly
+474,1816751,beidao,cn
+475,1252997,walajapet,in
+476,292968,abu dhabi,ae
+477,1171868,loralai,pk
+478,344979,lebu,cl
+479,4035715,avarua,ck
+480,1273574,vaini,to
+481,3863379,mar del plata,ar
+482,3662927,pauini,br
+483,3874787,punta arenas,cl
+484,3443061,chuy,uy
+485,3386213,touros,br
+486,3369157,cape town,za
+487,3366880,hermanus,za
+488,3833367,ushuaia,ar
+489,3378644,georgetown,sh
+490,4030556,rikitea,pf
+491,3840092,puerto madryn,ar
+492,6201424,mataura,pf
+493,3662489,santa isabel do rio negro,br
+494,2737599,saldanha,za
+495,3451138,rio grande,br
+496,4034551,faanui,pf
+497,3471451,arraial do cabo,br
+498,3440777,rocha,uy
+499,6320062,vila velha,br
+500,3453060,pontes e lacerda,br
+501,3695844,lagunas,pe
+502,3430443,necochea,ar
+503,3440781,rivera,uy
+504,3896218,castro,cl
+505,3899695,ancud,cl
+506,3435038,dolores,ar
+507,3661980,tamandare,br
+508,3860443,comodoro rivadavia,ar
+509,3393922,nisia floresta,br
+510,3466165,cidreira,br
+511,3938531,iberia,pe
+512,3911925,el alto,pe
+513,3932145,pisco,pe
+514,3665016,benjamin constant,br
+515,3472638,alegrete,br
+516,3466980,caravelas,br
+517,3448903,sao joao da barra,br
+518,3936456,lima,pe
+519,3455065,paranaiba,br
+520,3471551,arenapolis,br
+521,3661944,tefe,br
+522,3924908,pimenta bueno,br
+523,3451399,ribas do rio pardo,br
+524,3388847,sao felix do xingu,br
+525,3458051,mandaguacu,br
+526,3835994,santa rosa,ar
+527,3870282,talcahuano,cl
+528,5391959,san francisco,ar
+529,3397154,juazeiro,br
+530,3665202,aripuana,br
+531,3395981,maceio,br
+532,3466750,cassilandia,br
+533,3456285,niquelandia,br
+534,3461628,ibaiti,br
+535,3436616,ygatimi,py
+536,3355672,luderitz,na
+537,3894426,coihaique,cl
+538,3437443,pozo colorado,py
+539,3924679,vilhena,br
+540,3652462,san cristobal,ec
+541,3892454,diego de almagro,cl
+542,3843123,neuquen,ar
+543,3472284,anastacio,br
+544,3453420,planaltina,br
+545,3939168,huarmey,pe
+546,3468031,camacari,br
+547,3460629,itaqui,br
+548,3478424,pontal do parana,br
+549,3839307,rawson,ar
+550,3391940,pirapemas,br
+551,3469058,taguatinga,br
+552,3661980,tarauaca,br
+553,4696310,harper,lr
+554,3438076,general delgado,py
+555,3887127,iquique,cl
+556,3662762,porto velho,br
+557,3449747,santa vitoria do palmar,br
+558,6316343,alta floresta,br
+559,3397967,itaituba,br
+560,4036284,alofi,nu
+561,3924895,placido de castro,br
+562,3867427,mayor pablo lagerenza,py
+563,4033375,tevaitoa,pf
+564,3662342,sao gabriel da cachoeira,br
+565,3691582,talara,pe
+566,4013704,laguna,br
+567,2208248,kaitangata,nz
+568,3573739,esperance,au
+569,176758,kaputa,zm
+570,1006984,east london,za
+571,2155415,new norfolk,au
+572,2075265,busselton,au
+573,1062553,mahanoro,mg
+574,964432,port alfred,za
+575,2186111,ngunguru,nz
+576,2206894,hokitika,nz
+577,2191562,dunedin,nz
+578,2163355,hobart,au
+579,2161515,kiama,au
+580,2175403,bluff,nz
+581,5106834,albany,au
+582,2068110,kununurra,au
+583,2181625,te anau,nz
+584,2155562,nelson bay,au
+585,934322,mahebourg,mu
+586,986717,kruisfontein,za
+587,587876,soe,id
+588,2079582,alyangula,au
+589,962367,richards bay,za
+590,3026644,souillac,mu
+591,1015776,bredasdorp,za
+592,2155742,narrabri,au
+593,6620339,karratha,au
+594,6138908,saint-philippe,re
+595,933109,sehithwa,bw
+596,6355222,yulara,au
+597,2156643,mount gambier,au
+598,2153778,parkes,au
+599,2185763,okato,nz
+600,1106677,bambous virieux,mu
+601,1014034,carnarvon,au
+602,2063036,port lincoln,au
+603,2174444,bowen,au
+604,934479,grand gaube,mu
+605,1253628,lata,sb
+606,3137942,sola,vu
+607,2161376,kingaroy,au
+608,1636806,majene,id
+609,2108502,honiara,sb
+610,5960603,geraldton,au
+611,1633419,padang,id
+612,158514,kaliua,tz
+613,2656067,broome,au
+614,1282256,hithadhoo,mv
+615,2176225,benalla,au
+616,2065594,mount isa,au
+617,1640902,kawalu,id
+618,2138522,poya,nc
+619,2158744,margate,za
+620,2064735,nhulunbuy,au
+621,2995603,saint-pierre,re
+622,2063042,port hedland,au
+623,2180815,tuatapere,nz
+624,4501427,port elizabeth,za
+625,3844421,russell,nz
+626,2339937,auki,sb
+627,3354071,oranjemund,na
+628,152781,mtinko,tz
+629,3347019,namibe,ao
+630,213940,kasongo,cd
+631,2167426,emerald,au
+632,1056899,sambava,mg
+633,6255012,flinders,au
+634,1651103,atambua,id
+635,919009,chingola,zm
+636,934482,grand baie,mu
+637,2194098,ahipara,nz
+638,1641899,labuhan,id
+639,2165087,gold coast,au
+640,199284,chuka,ke
+641,212730,kisangani,cd
+642,1650233,banjar,id
+643,898947,senanga,zm
+644,2240449,luanda,ao
+645,1028434,quelimane,mz
+646,2140558,koumac,nc
+647,1054329,vangaindrano,mg
+648,6539761,roma,au
+649,1735076,butterworth,za
+650,1045114,inhambane,mz
+651,2258984,kinkala,cg
+652,2077895,alice springs,au
+653,2314705,kikwit,cd
+654,2136825,isangel,vu
+655,2260535,brazzaville,cg
+656,2176639,batemans bay,au
+657,997140,heilbron,za
+658,2152659,port macquarie,au
+659,2165478,gladstone,au
+660,2063039,port keats,au
+661,3353540,rehoboth,na
+662,1650458,balung,id
+663,2138285,tadine,nc
+664,2656847,atherton,au
+665,6096436,palmerston,au
+666,2084442,vanimo,pg
+667,1630662,praya,id
+668,3353811,otjiwarongo,na
+669,2109528,buala,sb
+670,2091996,madang,pg
+671,2100765,angoram,pg
+672,2094027,kieta,pg
+673,945945,upington,za
+674,1648082,boyolangu,id
+675,2094144,kerema,pg
+676,1632694,pangkalanbuun,id
+677,218680,boende,cd
+678,1626542,sorong,id
+679,2141714,bourail,nc
+680,2171069,colac,au
