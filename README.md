@@ -1,4 +1,4 @@
-# WeatherPy
+## WeatherPy
 
 Python script to visualize the weather of 500+ cities across the world of varying distances from the equator. OpenWeatherMap API used.
 
